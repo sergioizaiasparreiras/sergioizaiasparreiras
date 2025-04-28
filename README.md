@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sérgio Parreiras</h1>
+# <p align="center">< Welcome />! 👋</p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&width=700&lines=Hi+👋,+I'm+Sergio+Parreiras;💻+Coding+the+future,+one+bit+at+a+time." alt="Typing SVG" />
+</p>
+
 <h3 align="center">back-end developer 🚀</h3>
 
 
