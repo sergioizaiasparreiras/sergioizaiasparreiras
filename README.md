@@ -26,6 +26,7 @@
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -38,11 +39,30 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
+
+<h3 align="center">📊 GitHub Stats:</h3>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sergioizaiasparreiras&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergioizaiasparreiras&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+
 </div>
 
+---
+
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/sergioizaiasparreiras/sergioizaiasparreiras/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
+
+<div align="center">
+  <a href="https://github.com/sergioizaiasparreiras?tab=repositories">
+    <img src="https://img.shields.io/badge/⭐-Favorite%20my%20repositories-0a0a23?style=for-the-badge&logo=github&logoColor=white" alt="Favorite Repositories" />
+  </a>
+</div>
