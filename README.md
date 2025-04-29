@@ -2,8 +2,10 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&width=700&lines=Hi+👋,+I'm+Sergio+Parreiras;⚡+Transforming+ideas+into+binary+magic" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&width=700&lines=System.out.println(%22Hello+World!%22);+System.out.println(%22Eu+sou+o+Sérgio!%22);" alt="Typing SVG" />
 </p>
+
+
 
 <h3 align="center">back-end developer 🚀</h3>
 
