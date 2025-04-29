@@ -1,8 +1,7 @@
 # <p align="center">< Welcome />! 👋</p>
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&width=700&lines=System.out.println(%22Hello+World!%22);+System.out.println(%22Eu+sou+o+Sérgio!%22);" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&width=700&lines=System.out.println(%22Hello+World!%22);System.out.println(%22Eu+sou+o+Sérgio!%22);" alt="Typing SVG" />
 </p>
 
 
