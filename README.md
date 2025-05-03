@@ -1,7 +1,7 @@
 # <p align="center">< Hello World! />! 👋</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&width=700&lines=System.out.println(%22Olá,+eu+sou+o+Sérgio!%22);" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&width=700&lines=System.out.println(%22Hi!+I'am+Sérgio!%22);" alt="Typing SVG" />
 </p>
 
 
