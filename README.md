@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="img/kanedas-bike.gif" alt="kaneda-bike" />
+  <img src="img/frog.gif" alt="kaneda-bike" />
 </p>
 
 
