@@ -4,16 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&width=700&lines=System.out.println(%22Hi!+I'am+Sérgio!%22);" alt="Typing SVG" />
 </p>
 
-
-
 <h3 align="center">back-end developer 🚀</h3>
 
-
 <p align="center">
-  <img src="img/deadpool.gif" alt="kaneda-bike" />
+  <img src="img/sonicflying.gif" alt="sonic fly" width="497" />
 </p>
-
-
 
 <h3 align="center">📢 Connect with me:</h3>
 
@@ -48,6 +43,8 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+</div>
+
 ---
 
 <h3 align="center">📊 GitHub Stats:</h3>
@@ -60,12 +57,13 @@
 
 </div>
 
-
-
-</div>
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sergioizaiasparreiras/sergioizaiasparreiras/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sergioizaiasparreiras/sergioizaiasparreiras/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sergioizaiasparreiras/sergioizaiasparreiras/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/sergioizaiasparreiras/sergioizaiasparreiras/output/pacman-contribution-graph.svg">
+  </picture>
 </div>
 
 ---
