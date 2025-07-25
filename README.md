@@ -7,7 +7,7 @@
 <h3 align="center">back-end developer 🚀</h3>
 
 <p align="center">
-  <img src="img/sonicflying.gif" alt="sonic fly" width="400" />
+  <img src="img/bonfire.gif" alt="sonic fly" width="768" height="368" />
 </p>
 
 <h3 align="center">📢 Connect with me:</h3>
